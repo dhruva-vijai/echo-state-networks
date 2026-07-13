@@ -62,7 +62,7 @@ cd projects
 
 git clone https://github.com/dhruva-vijai/echo-state-networks/
 
-python <implementation>.py
+python "implementation".py
 
 ## Problems Faced
 
