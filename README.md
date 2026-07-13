@@ -66,9 +66,17 @@ python "implementation".py
 
 ## Problems Faced
 
+1) The addition of feedback loops for generative usage of the ESN has not yet been added and is not structly necessary for predictive tasks, yet has had an influence on MSE degradation with epochs
+
+2) 
+
 
 
 ## Improvements
+
+
+
+## Images/Figures
 
 
 
