@@ -16,6 +16,9 @@ Echo State Networks offer a simpler alternative to time-series prediction as com
 
 The internal reservoir is generated randomly, being randomly and sparsely connected in order to enable the development of complex dynamics in the reservoir. The input weights of the network are also initialized randomly, as are the linear readout weights. The internal state of the network is the vector of all activations of the internal reservoir and is initialized to zeroes.
 
+<img width="1056" height="816" alt="image" src="https://github.com/user-attachments/assets/2eda0e3a-0178-4821-ac8b-eb49619443ef" />
+
+
 __Units :__
 
 1) U - Input Unit
