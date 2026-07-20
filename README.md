@@ -49,7 +49,7 @@ The model is trained using any relevant linear regression algorithms with requis
    
 ## Specifics of Implementation
 
-### Model Parameters for Periodic Sinusoidal Signal Testing
+### Model Parameters for Aperiodic Sinusoidal Signal Testing
 
 1) Number of Input Units = 2
 
@@ -104,7 +104,7 @@ python "implementation".py
 
 ## Images and Figures
 
-### Testing the ESN on a Periodic Sinusoidal Signal For Next-Step Prediction
+### Testing the ESN on an Aperiodic Sinusoidal Signal For Next-Step Prediction
 
 <img width="896" height="478" alt="Screenshot 2026-07-20 at 4 10 14 PM" src="https://github.com/user-attachments/assets/0678a76f-dfd2-4be3-989c-bc4db697b0e4" />
 
